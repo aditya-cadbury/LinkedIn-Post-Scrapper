@@ -1,0 +1,17 @@
+{
+  "keywords": ["hiring", "engineer", "AI", "founding team", "developer", "backend", "frontend", "fullstack", "ML", "data scientist"],
+  "days_limit": 7,
+  "hashtags": ["#hiring", "#backendengineer", "#foundingteam", "#aiengineer"],
+  "scraping": {
+    "headless": false,
+    "delay_between_requests": 2,
+    "max_posts_per_search": 50,
+    "max_total_posts": 1000,
+    "timeout": 30000
+  },
+  "storage": {
+    "csv_file": "output.csv",
+    "db_file": "output.db",
+    "log_file": "logs/last_run.txt"
+  }
+}
