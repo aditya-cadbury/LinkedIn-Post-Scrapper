@@ -161,4 +161,3 @@ The project is built with clean, distinct modules—a "separation of concerns" a
 - **Sustainability vs. Completeness**: I intentionally added delays and limits. This means I might miss a few posts, but it guarantees that the scraper can run safely and reliably long-term without getting banned.
 
 - **Session Preservation**: I let the browser window stay open after a run to keep your session alive. You have to close it manually, but it saves you from having to log in again next time.
-# LinkedIn-Post-Scrapper
