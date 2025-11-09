@@ -1,0 +1,5 @@
+[2025-11-08 19:13:20] Scraped 47 posts. Top score: 5
+[2025-11-08 19:29:27] Scraped 50 posts. Top score: 19
+[2025-11-08 19:42:07] Scraped 187 posts. Top score: 20
+[2025-11-08 20:03:04] Scraped 194 posts. Top score: 20
+[2025-11-08 22:16:55] Scraped 198 posts. Top score: 20
